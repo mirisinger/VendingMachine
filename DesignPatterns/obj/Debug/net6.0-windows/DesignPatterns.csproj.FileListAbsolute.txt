@@ -1,0 +1,147 @@
+H:\desin patern\DesignPatterns\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.AssemblyReference.cache
+H:\desin patern\DesignPatterns\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Form1.resources
+H:\desin patern\DesignPatterns\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.GenerateResource.cache
+H:\desin patern\DesignPatterns\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+H:\desin patern\DesignPatterns\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfoInputs.cache
+H:\desin patern\DesignPatterns\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfo.cs
+H:\desin patern\DesignPatterns\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.CoreCompileInputs.cache
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.AssemblyReference.cache
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Form1.resources
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.GenerateResource.cache
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfoInputs.cache
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfo.cs
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.CoreCompileInputs.cache
+H:\design patterns\DP\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.exe
+H:\design patterns\DP\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.deps.json
+H:\design patterns\DP\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.runtimeconfig.json
+H:\design patterns\DP\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.dll
+H:\design patterns\DP\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.pdb
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.dll
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\refint\DesignPatterns.dll
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.pdb
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.genruntimeconfig.cache
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\ref\DesignPatterns.dll
+H:\design patterns\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Report.resources
+H:\desin patern\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.AssemblyReference.cache
+H:\desin patern\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Form1.resources
+H:\desin patern\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.GenerateResource.cache
+H:\desin patern\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+H:\desin patern\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfoInputs.cache
+H:\desin patern\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfo.cs
+H:\desin patern\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.CoreCompileInputs.cache
+H:\desin patern\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.dll
+H:\desin patern\DP\DesignPatterns\obj\Debug\net6.0-windows\refint\DesignPatterns.dll
+H:\desin patern\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.pdb
+E:\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.AssemblyReference.cache
+E:\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Form1.resources
+E:\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.GenerateResource.cache
+E:\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfoInputs.cache
+E:\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfo.cs
+E:\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.dll
+E:\DP\DesignPatterns\obj\Debug\net6.0-windows\refint\DesignPatterns.dll
+E:\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.pdb
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Form1.resources
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.GenerateResource.cache
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfo.cs
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.dll
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\refint\DesignPatterns.dll
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.pdb
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.exe
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.deps.json
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.runtimeconfig.json
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.dll
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.pdb
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.genruntimeconfig.cache
+C:\Users\n0548\Downloads\DP\DP\DesignPatterns\obj\Debug\net6.0-windows\ref\DesignPatterns.dll
+H:\desin patern\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.exe
+H:\desin patern\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.deps.json
+H:\desin patern\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.runtimeconfig.json
+H:\desin patern\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.dll
+H:\desin patern\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.pdb
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.AssemblyReference.cache
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Form1.resources
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.GenerateResource.cache
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfoInputs.cache
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfo.cs
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.CoreCompileInputs.cache
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.dll
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\refint\DesignPatterns.dll
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.pdb
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.genruntimeconfig.cache
+H:\desin patern\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\ref\DesignPatterns.dll
+D:\design patterns\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.exe
+D:\design patterns\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.deps.json
+D:\design patterns\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.runtimeconfig.json
+D:\design patterns\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.dll
+D:\design patterns\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.pdb
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.AssemblyReference.cache
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Form1.resources
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.GenerateResource.cache
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfoInputs.cache
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfo.cs
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.dll
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\refint\DesignPatterns.dll
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.pdb
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.genruntimeconfig.cache
+D:\design patterns\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\ref\DesignPatterns.dll
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.exe
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.deps.json
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.runtimeconfig.json
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.dll
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\ref\DesignPatterns.dll
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.pdb
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.AssemblyReference.cache
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Form1.resources
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.GenerateResource.cache
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfoInputs.cache
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfo.cs
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.CoreCompileInputs.cache
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.dll
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\ref\DesignPatterns.dll
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.pdb
+H:\desin patern\חדש\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.genruntimeconfig.cache
+H:\design patterns project\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.exe
+H:\design patterns project\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.deps.json
+H:\design patterns project\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.runtimeconfig.json
+H:\design patterns project\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.dll
+H:\design patterns project\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.pdb
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.AssemblyReference.cache
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Form1.resources
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.GenerateResource.cache
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfoInputs.cache
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfo.cs
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.CoreCompileInputs.cache
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.dll
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\ref\DesignPatterns.dll
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.pdb
+H:\design patterns project\מירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.genruntimeconfig.cache
+H:\design patterns project\מירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\ref\DesignPatterns.dll
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.exe
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.deps.json
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.runtimeconfig.json
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.dll
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\bin\Debug\net6.0-windows\DesignPatterns.pdb
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.Form1.resources
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.GenerateResource.cache
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.AssemblyInfo.cs
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.dll
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\refint\DesignPatterns.dll
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.pdb
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\DesignPatterns.genruntimeconfig.cache
+C:\Users\n0548\Documents\תכנות\DesignPatterns\dpמירי זינגר\DesignPatterns\obj\Debug\net6.0-windows\ref\DesignPatterns.dll

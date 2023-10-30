@@ -1,0 +1,68 @@
+06/06/2023 16:24:56
+DesignPatterns.Tea was bought
+06/06/2023 16:26:58
+DesignPatterns.Lemonade was bought
+06/06/2023 16:30:01
+DesignPatterns.Coffee was bought
+06/06/2023 16:32:13
+ was bought
+06/06/2023 16:39:10
+ was bought
+06/06/2023 16:42:19
+DesignPatterns.Nishnooshim was bought
+06/06/2023 16:47:52
+Coffee was bought
+06/06/2023 16:48:35
+Coffee was bought
+06/06/2023 16:49:32
+OrangeJuice was bought
+06/06/2023 16:50:01
+Bisli was bought
+At06/06/2023 16:53:24
+Coffee was bought
+At 06/06/2023 16:54:33
+Pretzels was bought
+At 06/06/2023 16:55:32
+Coffee was bought
+At 06/06/2023 16:57:37
+Coffee was bought
+At 06/06/2023 16:58:42
+Coffee was bought
+At 06/06/2023 17:00:28
+Coffee was bought
+At 06/06/2023 17:01:57
+Coffee was bought
+At 06/06/2023 17:06:12
+Coffee was bought
+At 06/06/2023 17:06:56
+Coffee was bought
+At 06/06/2023 17:24:07
+Coffee was bought
+At 06/06/2023 17:24:34
+Coffee was bought
+At 06/06/2023 17:25:24
+Coffee was bought
+At 06/06/2023 17:26:26
+Coffee was bought
+At 06/06/2023 18:16:43
+Coffee was bought
+At 06/06/2023 18:16:55
+Coffee was bought
+At 06/06/2023 18:23:44
+Coffee was bought
+At 06/06/2023 18:26:28
+Coffee was bought
+At 06/06/2023 18:33:02
+Coffee was bought
+At 06/06/2023 18:34:33
+WhiteChocolate was bought
+At 06/06/2023 18:36:46
+Coffee was bought
+At 06/06/2023 18:37:48
+Coffee was bought
+At 06/06/2023 18:42:06
+Coffee was bought
+At 06/06/2023 18:42:28
+Coffee was bought
+At 06/06/2023 18:45:18
+Coffee was bought
